@@ -18,4 +18,4 @@ printf("Given number is not a palindromic number");
  } 
 //return 0; 
 }
-
+#vinay
