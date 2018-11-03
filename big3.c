@@ -21,4 +21,4 @@ printf("all are equal or any two values are equal");
 } 
 return 0; 
 }
-
+#vinay
